@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="kMeans">
+<entry key="dimensions" type="xint" value="5"/>
+<entry key="ignoredColumns" type="xint" value="1"/>
+<config key="clusterCoverage">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xint" value="691"/>
+<entry key="1" type="xint" value="656"/>
+<entry key="2" type="xint" value="624"/>
+<entry key="3" type="xint" value="1942"/>
+</config>
+<config key="kMeansCluster0">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xdouble" value="0.26340921859494143"/>
+<entry key="1" type="xdouble" value="0.4331584659913169"/>
+<entry key="2" type="xdouble" value="0.3325809187068034"/>
+<entry key="3" type="xdouble" value="0.49129722333278897"/>
+</config>
+<config key="kMeansCluster1">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xdouble" value="0.5304505966514433"/>
+<entry key="1" type="xdouble" value="0.09575076219512195"/>
+<entry key="2" type="xdouble" value="0.21180988897712377"/>
+<entry key="3" type="xdouble" value="0.23776928917149145"/>
+</config>
+<config key="kMeansCluster2">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xdouble" value="0.10453044934758562"/>
+<entry key="1" type="xdouble" value="0.08964342948717949"/>
+<entry key="2" type="xdouble" value="0.6164497587438187"/>
+<entry key="3" type="xdouble" value="0.09037962685822652"/>
+</config>
+<config key="kMeansCluster3">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xdouble" value="0.18214330070901716"/>
+<entry key="1" type="xdouble" value="0.06703784757981462"/>
+<entry key="2" type="xdouble" value="0.26955033013295226"/>
+<entry key="3" type="xdouble" value="0.11144994730451704"/>
+</config>
+<config key="FeatureNames">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xstring" value="dimensione_carrello"/>
+<entry key="1" type="xstring" value="frequenza_acquisti"/>
+<entry key="2" type="xstring" value="Prezzo Medio"/>
+<entry key="3" type="xstring" value="numero_articoli"/>
+<entry key="4" type="xstring" isnull="true" value=""/>
+</config>
+</config>
